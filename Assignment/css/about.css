@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color:greenyellow
+}
+.cardabout{
+    background-color: lightblue;
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px rgb(184, 187, 187);
+    text-align: right;
+}
+h3{
+    text-align: center;
+    color: rgb(3, 3, 60);
+    
+}
+
+.cardabout:hover{
+    background-color: #ccf2f8;
+}
+.IMG{
+    display: flex;
+    padding-left: 20px;
+    margin: 10px;
+    padding-top: 50px;
+}
+
+p{
+    display: flex;
+    position: relative;
+    text-align: center;
+    color: white;
+    
+}
+#new{
+    color: rgb(12, 12, 180);
+    padding-left: 150px;
+    display: flex;
+    padding-bottom: 50px;
+}
+body{
+    background-color: rgb(11, 11, 44);
+}
